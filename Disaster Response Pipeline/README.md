@@ -1,12 +1,12 @@
 
 # Disaster Response Pipeline Project
 ### Table of Contents
-+ Project Summary
-+ File Description
-+ Installation
-+ Instructions
-+ License
-+ Acknowledgement
++ <a href='#Project Summary'><h4>Project Summary</h4></a>
++ <a href='#File Description'><h4>File Description</h4></a>
++ <a href='#Installation'><h4>Installation</h4></a>
++ <a href='#Instructions'><h4>Instructions</h4></a>
++ <a href='#License'><h4>License</h4></a>
++ <a href='#Acknowledgement'><h4>Acknowledgement</h4></a>
 
 Description
 This project is part of my data science nano degree program by Udacity in collaboration with figure eight. The dataset contains labeled data and tweets, messages from real-life disasters. the aim of this project is to build a tool that categorize messages using NLP (Natural Language Processing)
