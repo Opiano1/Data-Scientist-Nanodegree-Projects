@@ -1,12 +1,13 @@
 
 # Disaster Response Pipeline Project
 ### Table of Contents
-Description
-Dependencies
-Installing
-Instructions
-License
-Acknowledgement
++ Project Summary
++ File Description
++ Installation
++ Instructions
++ License
++ Acknowledgement
+
 Description
 This project is part of my data science nano degree program by Udacity in collaboration with figure eight. The dataset contains labeled data and tweets, messages from real-life disasters. the aim of this project is to build a tool that categorize messages using NLP (Natural Language Processing)
 
@@ -15,6 +16,20 @@ The project is divided in three different sections:
 Data Processing, ETL pipeline to extract data from sources and to clean it finally save it in sqlite database
 Machine Learning Pipeline to train model to be able to classify messages in categories
 Web App to show model results also to predict new messages in real-time
+
+### Files Desription
+data
+DisasterResponse.db: SQLlite database of combined message data and categories
+disaster_categories.csv: Message category raw data
+disaster_messages.csv: Message raw text
+process_data: Python script for processing the raw data and generating the DisasterResponse.db
+models
+classifier.pkl: Saved message classification model
+train_classifier.py: Python script for training the classifier model
+app
+templates: HTML templates folder
+run.py: Python script for website generation
+
 Dependencies
 Python libraries needed
 Python version used 3.7
