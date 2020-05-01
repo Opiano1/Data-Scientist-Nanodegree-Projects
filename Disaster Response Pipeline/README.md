@@ -65,4 +65,4 @@ License: MIT
 This project was made to help people in disasters situation to send there messages and easily to be classified by the meant organization.
 
 ### Acknowledgement
-<a href=http://udacity.com>Udacity</a> For great course materials and <a href=https://appen.com/about-us/>Figure Eight </a> for their contributions in  making the dataset available to analyze and gather insights to solve problem.
+I want to appreciate and acknowledge the entire <a href=http://udacity.com>Udacity</a> community for building such a great course materials and <a href=https://appen.com/about-us/>Figure Eight </a> for their contributions in  making the dataset available to analyze and gather insights to solve problem.
