@@ -5,7 +5,7 @@
 + <a href='#Project Summary'><h4>Project Summary</h4></a>
 + <a href='#Files Description'><h4>File Description</h4></a>
 + <a href='#Installation'><h4>Installation</h4></a>
-+ <a href='#Instructions'><h4>Instructions</h4></a>
++ <a href='#Results'><h4>Instructions</h4></a>
 + <a href='#License'><h4>License</h4></a>
 + <a href='#Acknowledgement'><h4>Acknowledgement</h4></a>
 
@@ -39,6 +39,9 @@ Python version used 3.7
 + Numpy
 + Pandas
 
+<h3>Results</h3>
+<a id='#Results'></a>
+The main findings of the code can be found at the post available <a href=#>here</a>.
 
 ### License
 <a id='Licence'></a>
