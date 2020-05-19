@@ -41,7 +41,7 @@ Python version used 3.7
 
 <h3>Results</h3>
 <a id='#Results'></a>
-The main findings of the code can be found at the post available <a href=#>here</a>.
+The main findings of the code can be found at the post available <a href='https://medium.com/@fabiyiopeyemi94/datathon2020-predicting-weather-disruption-of-public-transport-86373a19e6bc?sk=1bbcda0e553858cb647be8dfb8413b5e'>here</a>.
 
 ### License
 <a id='Licence'></a>
