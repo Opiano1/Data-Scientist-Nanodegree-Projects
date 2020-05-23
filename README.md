@@ -1,4 +1,4 @@
-# Udacity-DSND
+# Data Scientist Nanodegree
 
 This repository contain all the projects implemented during the course of the Data Science Nanodegree
 
